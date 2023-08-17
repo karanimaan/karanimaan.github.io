@@ -1,5 +1,5 @@
 layout: page
 title: "Karan Abraham"
-permalink: /home
+permalink: /home/
 
 ## ePortfolio
