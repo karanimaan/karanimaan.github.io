@@ -4,6 +4,8 @@ title: Vac work
 show_title: true
 ---
 
+My vacation work experiences:
+
 # Avocado Chocolate
 10 Jul – 14 Jul 2023 <br>
 I was tasked with developing an Android application which finds a route between two locations avoiding areas with loadshedding.
