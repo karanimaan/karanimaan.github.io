@@ -1,19 +1,17 @@
 ---
 layout: home
-title: myTitle
-show_tile: false
+title: Home
+hide_title: true
 ---
 
-### Welcome to my ePortfolio!
+Welcome to my ePortfolio! Navigate using the menu at the top right of this page.
 
 <div class="row">
-<div class="column left">
-    <embed src="/assets/profile.jpg" width="100%">
+    <div class="6u 12u">
+        - Electrical & Computer Engineering student at the University of Cape Town
+        - [Link to CV](assets/CV.pdf)
+    </div>
+    <div class="6u 12u">
+        <embed src="/assets/profile.jpg" width="20%">
+    </div>
 </div>
-<div class="column right" markdown='1'>
-<br> Electrical & Computer Engineering student
-<br> University of Cape Town
-<br> [Link to CV](assets/CV.pdf)
-</div>
-</div>
-
