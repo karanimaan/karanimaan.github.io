@@ -1,9 +1,6 @@
 ---
 layout: home
-landing-title: 'ePortfolio'
-description: null
-image: null
-author: null
+title: myTitle
 show_tile: false
 ---
 
