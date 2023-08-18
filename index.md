@@ -1,10 +1,10 @@
 ---
 layout: home
-title: myTitle
-show_tile: false
+title: Home
+hide_title: true
 ---
 
-### Welcome to my ePortfolio! Navigate using the menu at the top right of this page.
+Welcome to my ePortfolio! Navigate using the menu at the top right of this page.
 
 <div class="row">
     <div class="6u 12u">
