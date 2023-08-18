@@ -2,6 +2,7 @@
 nav-menu: true
 layout: page
 title: Biography
+show_title: true
 ---
 
 I have a mind for analytic reasoning, which is one of the key attributes of an
@@ -15,6 +16,7 @@ High school and university mainly shaped my engineering identity.
 In high school, choosing IT (Information Technology) in grade 10 was pivotal
 to where my academic path would go. It introduced me to the world of
 programming, and I was in love.
+
 I decided to go into ECE (Electrical & Computer Engineering) because I
 enjoyed programming and was good at Maths and Physics in school.
 However, it was only in university that I fell in love with Maths and Physics.
